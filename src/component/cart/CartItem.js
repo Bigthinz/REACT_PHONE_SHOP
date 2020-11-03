@@ -25,7 +25,7 @@ const CartItem = ({item,value}) => {
             </div>
             <div className="col-10 mx-auto col-lg-2">
                 <div className="cart-icon" onClick={()=>removeItem(id)}>
-                    <i className="fas fa-trash"></i>
+                    <i className="fas fa-trash">.</i>
                 </div>
             </div>
             <div className="col-10 mx-auto col-lg-2">

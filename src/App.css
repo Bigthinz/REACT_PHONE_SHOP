@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Oswald', sans-serif !important;
-    background-color: var(--mainWhite);
+    background: var(--mainWhite);
     color: var(--mainDark);
 }
 
